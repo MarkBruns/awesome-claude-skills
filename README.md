@@ -1,4 +1,4 @@
-# Awesome Claude Skills
+# Awesome Agentified Opportunity Finding 
 
 ## 📚 Table of Contents  
 - [Awesome Claude Skills](#awesome-claude-skills)
